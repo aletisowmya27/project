@@ -1,7 +1,5 @@
-public class sample
-{
-	public static void main(string[] args)
-	{
-		System.out.print("aleti sowmya");
-	}
+public class sample {
+    public static void main(String[] args) {
+        System.out.print("aleti sowmya");
+    }
 }
